@@ -68,7 +68,7 @@
 
         <div class="col-lg-9">
 
-          <div class="card mt-5">
+          <div class="card mt-4">
             <img class="card-img-top img-fluid" src="pelaminan1.jpeg" alt="pelaminan1">
 
             <div class="card-body">
