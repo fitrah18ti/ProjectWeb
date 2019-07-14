@@ -25,21 +25,21 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item active">
-            <a class="nav-link" href="index.html">Home
+            <a class="nav-link" href="index.php">Home
               <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="tentang.html">Tentang Kami</a>
+            <a class="nav-link" href="tentang.php">Tentang Kami</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="layanan.html">Layanan</a>
+            <a class="nav-link" href="layanan.php">Layanan</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="galeri.html">Galeri</a>
+            <a class="nav-link" href="galeri.php">Galeri</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">Kontak</a>
+            <a class="nav-link" href="contact.php">Kontak</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="logout.php">Log out</a>
@@ -69,8 +69,8 @@
 
             <span class="text-warning">&#9733; &#9733; &#9733; &#9733; &#9734;</span>
             4.0 stars
-            <a href="kategori1.html">
-             <button type="submit" name="detail" value="detail" autofocus="" href="kategori1.html">Detail</button>
+            <a href="kategori1.php">
+             <button type="submit" name="detail" value="detail" autofocus="" href="kategori1.php">Detail</button>
            </div>
          </div>
 
@@ -81,8 +81,8 @@
             
             <span class="text-warning">&#9733; &#9733; &#9733; &#9733; &#9733;</span>
             5.0 stars
-            <a href="kategori2.html">
-              <button type="submit" name="detail" value="detail" autofocus="" href="kategori2.html">Detail</button>
+            <a href="kategori2.php">
+              <button type="submit" name="detail" value="detail" autofocus="" href="kategori2.php">Detail</button>
             </div>
           </div>
 
@@ -95,8 +95,8 @@
 
               <span class="text-warning">&#9733; &#9733; &#9733; &#9733; &#9733;</span>
               5.0 stars
-              <a href="kategori3.html">
-               <button type="submit" name="detail" value="detail" autofocus="" href="kategori3.html">Detail</button>
+              <a href="kategori3.php">
+               <button type="submit" name="detail" value="detail" autofocus="" href="kategori3.php">Detail</button>
              </div>
            </div>
            
