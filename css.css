@@ -1,0 +1,18 @@
+.container {
+	width: 400px;
+	height:200px;
+	padding: 20px;
+	position: fixed;
+	top: 50%;
+	left:50%;
+	margin-top: -270px;
+	margin-left: -220px;
+}
+.main{
+	width: 309px;
+	padding: 10px 50px 30px;
+	border: 2px solid gray;
+	font-family: "calibri";
+	float: left;
+	margin-top: 15px;
+}
