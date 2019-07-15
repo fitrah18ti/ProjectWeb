@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <title>Kontak Kami</title>
-	
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<meta name="keywords" content=" Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+	<meta name="keywords" content=" Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
 	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 	<script type="application/x-javascript">
 		addEventListener("load", function () {
@@ -16,10 +16,10 @@
 			window.scrollTo(0, 1);
 		}
 	</script>
-	
-	<link rel="stylesheet" href="css/bootstrap.css"> 
-	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" /> 
-	<link rel="stylesheet" href="css/font-awesome.min.css"> 
+
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
+	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link href="//fonts.googleapis.com/css?family=Inconsolata:400,700&amp;subset=latin-ext,vietnamese" rel="stylesheet">
 
 </head>
@@ -31,7 +31,7 @@
 		<section class="row top_header pt-3">
 			<div class="col-lg-6 buttons ml-auto">
 				<p><span class="fa fa-phone"></span> +628126814387</p>
-				
+
 			</div>
 		</section>
 
@@ -47,12 +47,12 @@
         <input type="checkbox" id="drop" />
             <ul class="menu mt-2">
                 <li class="mr-lg-3 mr-2 active"><a href="home.php">Home</a></li>
-                <li class="mr-lg-3 mr-2"><a href="tentang.html">Tentang Kami</a></li>
+                <li class="mr-lg-3 mr-2"><a href="tentang.php">Tentang Kami</a></li>
                 <li class="mr-lg-3 mr-2"><a href="layanan.html">Layanan</a></li>
                 <li class="mr-lg-3 mr-2"><a href="galeri.html">Galeri</a></li>
                 <li class="mr-lg-3 mr-2 pb-0">
-               
-                <li class="active"><a href="contact.html">Kontak</a></li>
+
+                <li class="active"><a href="contact.php">Kontak</a></li>
             </ul>
         </nav>
 	</div>
@@ -77,7 +77,7 @@
             <li class="breadcrumb-item active" aria-current="page">Kontak Kami</li>
         </ol>
     </nav>
-    
+
 <section class="contact py-5">
 	<div class="container py-sm-3">
 		<h3 class="heading text-capitalize mb-lg-5 mb-4"> Kontak Kami </h3>
@@ -104,7 +104,7 @@
 					<div class="address-right text-center">
 						<h6 class="ad-info text-uppercase mb-2">Email</h6>
 							<a href="mailto:information@example.com"> anikwedding@gmail.com</a>
-							
+
 					</div>
 
 				</div>
@@ -117,7 +117,7 @@
 					<div class="address-right text-center">
 						<h6 class="ad-info text-uppercase mb-2">HP</h6>
 						<p>+628126814387</p>
-						
+
 
 					</div>
 				</div>
@@ -125,7 +125,7 @@
 		</div>
 		<div class="container">
 <form action="prosespengunjung.php" method="post">
-  
+
 		<div class="form row py-5">
 			<div class="col-lg-6 contact-form">
 				<form action="#" method="post">
@@ -138,7 +138,7 @@
 
 							<label>Nama</label>
 							<span></span>
-						</div> 
+						</div>
 						<div class="styled-input">
 							<input type="email" name="email" required="">
 							<label>Email</label>
@@ -167,10 +167,10 @@
 				</div>
 			</div>
 		</div>
-		
-		
+
+
 	</div>
-</section>	
+</section>
 
 <footer>
 	<div class="container py-5">
@@ -194,8 +194,8 @@
 					<a class="pr-2" href="#"> <img src="images/d.jpg" alt="" class="img-fluid"/> </a>
 					<a class="mt-2 pr-2" href="#"> <img src="images/e.jpg" alt="" class="img-fluid"/> </a>
 					<a class="mt-2 pr-2" href="#"> <img src="images/f.jpg" alt="" class="img-fluid"/> </a>
-				
-				</div>	
+
+				</div>
 			</div>
 			<div class="col-lg-3 offset-lg-1 col-sm-6 mt-lg-0 mt-sm-5 mt-4">
 				<h3 class="text-capitalize mb-3"> Ikuti Kami</h3>

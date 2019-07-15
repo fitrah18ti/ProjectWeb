@@ -33,10 +33,10 @@
             <a class="nav-link" href="tentang.php">Tentang Kami</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="layanan.php">Layanan</a>
+            <a class="nav-link" href="layanan.html">Layanan</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="galeri.php">Galeri</a>
+            <a class="nav-link" href="galeri.html">Galeri</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">Kontak</a>
@@ -78,7 +78,7 @@
           <img class="card-img-top img-fluid" src="pelaminan2.jpg" alt="pelaminan2">
           <div class="card-body">
             <h3 class="card-title">Pelaminan Lux</h3>
-            
+
             <span class="text-warning">&#9733; &#9733; &#9733; &#9733; &#9733;</span>
             5.0 stars
             <a href="kategori2.php">
@@ -99,7 +99,7 @@
                <button type="submit" name="detail" value="detail" autofocus="" href="kategori3.php">Detail</button>
              </div>
            </div>
-           
+
         </div>
 
       </div>
