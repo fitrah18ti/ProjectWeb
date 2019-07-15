@@ -2,10 +2,10 @@
 <html lang="en">
 <head>
 <title>Wedding Organizer </title>
-	
+
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta charset="utf-8">
-	<meta name="keywords" content="Wedding Organizer web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+	<meta name="keywords" content="Wedding Organizer web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
 	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 	<script type="application/x-javascript">
 		addEventListener("load", function () {
@@ -16,10 +16,10 @@
 			window.scrollTo(0, 1);
 		}
 	</script>
-	
+
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/style.css" type="text/css" media="all" />
-	<link rel="stylesheet" href="css/font-awesome.min.css"> 
+	<link rel="stylesheet" href="css/font-awesome.min.css">
 
 	<link href="//fonts.googleapis.com/css?family=Inconsolata:400,700&amp;subset=latin-ext,vietnamese" rel="stylesheet">
 
@@ -32,10 +32,10 @@
 		<section class="row top_header pt-3">
 			<div class="col-lg-6 buttons ml-auto">
 				<p><span class="fa fa-phone"></span> +628 1268 14387</p>
-				
+
 			</div>
 		</section>
-		
+
 		<nav class="py-3">
         <div id="logo">
 			<h1>
@@ -48,13 +48,11 @@
         <input type="checkbox" id="drop" />
             <ul class="menu mt-2">
                 <li class="mr-lg-3 mr-2"><a href="home.php">Home</a></li>
-                <li class="mr-lg-3 mr-2 active"><a href="tentang.html">Tentang Kami</a></li>
+                <li class="mr-lg-3 mr-2 active"><a href="tentang.php">Tentang Kami</a></li>
                 <li class="mr-lg-3 mr-2"><a href="layanan.html">Layanan</a></li>
                 <li class="mr-lg-3 mr-2"><a href="galeri.html">Galeri</a></li>
                 <li class="mr-lg-3 mr-2"><a href="logout.php">Log Out</a></li>
                 <li class="mr-lg-3 mr-2 pb-0">
-                <!-- First Tier Drop Down -->
-               
                 <li><a href="contact.html">Kontak</a></li>
             </ul>
         </nav>
@@ -70,7 +68,7 @@
             </div>
         </div>
     </div>
-    
+
     <nav aria-label="breadcrumb">
         <ol class="breadcrumb">
             <li class="breadcrumb-item">
@@ -79,7 +77,7 @@
             <li class="breadcrumb-item active" aria-current="page">Tentang Kami</li>
         </ol>
     </nav>
-    
+
 <section class="welcome py-5" id="welcome">
 	<div class="container py-md-5">
 		<h3 class="heading text-capitalize text-center mb-lg-5 mb-4"> Rencanakan Hari Terbaikmu </h3>
@@ -178,8 +176,8 @@
 				<div class="col-lg-5">
 					<h4 class="mb-3">Jangan Salah Pilih!</h4>
 					<p class="mb-3">Kami menawarkan sesuai dengan kemauan anda.
-					Mulai dari acara biasa sampai dengan super mewah. 
-				Jangan pernah salah dalam memilih Wedding Organizer anda. 
+					Mulai dari acara biasa sampai dengan super mewah.
+				Jangan pernah salah dalam memilih Wedding Organizer anda.
 			Pilihlah yang paling berkesan.</p>
 					<a href="contact.html">Kontak Kami</a>
 				</div>
@@ -207,11 +205,11 @@
 					<a class="pr-2" href="#"> <img src="images/b.jpg" alt="" class="img-fluid"/> </a>
 					<a class="pr-2" href="#"> <img src="images/c.jpg" alt="" class="img-fluid"/> </a>
 					<a class="pr-2" href="#"> <img src="images/d.jpg" alt="" class="img-fluid"/> </a>
-					
+
 					<a class="mt-2 pr-2" href="#"> <img src="images/e.jpg" alt="" class="img-fluid"/> </a>
 					<a class="mt-2 pr-2" href="#"> <img src="images/f.jpg" alt="" class="img-fluid"/> </a>
-					
-				</div>	
+
+				</div>
 			</div>
 			<div class="col-lg-3 offset-lg-1 col-sm-6 mt-lg-0 mt-sm-5 mt-4">
 				<h3 class="text-capitalize mb-3"> Ikuti Kami</h3>
