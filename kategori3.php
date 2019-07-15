@@ -10,11 +10,17 @@
 
     <title>Anik Wedding Gallery</title>
 
+    <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
+    <!-- Custom styles for this template -->
     <link href="css/shop-item.css" rel="stylesheet">
-</head>
-<body>
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
       <div class="container">
         <a class="navbar-brand" href="#">Welcome to our Wedding Organizer</a>
@@ -29,13 +35,13 @@
               </a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="tentang.php">Tentang Kami</a>
+              <a class="nav-link" href="tentang.html">Tentang Kami</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="layanan.html">Layanan</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="contact.php">Kontak</a>
+              <a class="nav-link" href="contact.html">Kontak</a>
             </li>
             <li class="nav-item">
             <a class="nav-link" href="logout.php">Log out</a>
@@ -45,6 +51,7 @@
       </div>
     </nav>
 
+    <!-- Page Content -->
     <div class="container">
 
       <div class="row">
@@ -57,6 +64,8 @@
             <a href="kategori3.html" class="list-group-item active">Kategori 3</a>
           </div>
         </div>
+        <!-- /.col-lg-3 -->
+
         <div class="col-lg-9">
 
           <div class="card mt-4">
@@ -70,7 +79,7 @@
               5.0 stars
             </div>
           </div>
-          <<div class="container">
+          <!-- /.card --><div class="container">
 <form action="prosespesan.php" method="post">
   Form Pemesanan<br>
     <label><b>Nama</b></label>
@@ -81,21 +90,31 @@
 <br>
     <label><b>Tanggal</b></label>
     <input type="date" name="tanggal" autofocus="" placeholder="Masukkan tanggal">
-       <br>
+       <br> 
     <button type="submit" name="pesan" value="pesan" autofocus="">Booking</button>
-
+    
   </div>
-</div>
-      </div>
-    </div>
 
+         
+          <!-- /.card -->
+
+        </div>
+        <!-- /.col-lg-9 -->
+
+      </div>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- Footer -->
     <footer class="py-5 bg-dark">
       <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>
       </div>
-
+      <!-- /.container -->
     </footer>
 
+    <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
