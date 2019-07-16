@@ -66,7 +66,7 @@
           <img class="card-img-top img-fluid" src="pelaminan1.jpeg" alt="pelaminan1">
 
           <div class="card-body">
-            <h3 class="card-title">Pelaminan Modern</h3>
+            <h3 class="card-title">Pelaminan Nasional</h3>
             <h4>Rp.30.000.000</h4>
             <p class="card-text">Pelaminan Nasional dengan nuansa adat yang kental. Sentuhan rangkaian bunga yang disusun indah, menambah kemewahan pelaminan ini.</p>
             <span class="text-warning">&#9733; &#9733; &#9733; &#9733; &#9734;</span>
