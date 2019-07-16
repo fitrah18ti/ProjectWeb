@@ -31,13 +31,13 @@
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="tentang.html">Tentang Kami</a>
+            <a class="nav-link" href="tentang.php">Tentang Kami</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="layanan.html">Layanan</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contact.html">Kontak</a>
+            <a class="nav-link" href="contact.php">Kontak</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="logout.php">Log Out</a>
