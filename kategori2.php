@@ -58,9 +58,9 @@
         <div class="col-lg-3">
           <h1 class="my-4">Anik Wedding Galery</h1>
           <div class="list-group">
-            <a href="kategori1.html" class="list-group-item ">Kategori 1</a>
-            <a href="kategori2.html" class="list-group-item active">Kategori 2</a>
-            <a href="kategori3.html" class="list-group-item">Kategori 3</a>
+            <a href="kategori1.php" class="list-group-item ">Kategori 1</a>
+            <a href="kategori2.php" class="list-group-item active">Kategori 2</a>
+            <a href="kategori3.php" class="list-group-item">Kategori 3</a>
           </div>
         </div>
 
