@@ -54,9 +54,9 @@
       <div class="col-lg-3">
         <h1 class="my-4">Anik Wedding Galery</h1>
         <div class="list-group">
-          <a href="kategori1.html" class="list-group-item ">Kategori 1</a>
-          <a href="kategori2.html" class="list-group-item">Kategori 2</a>
-          <a href="kategori3.html" class="list-group-item active">Kategori 3</a>
+          <a href="kategori1.php" class="list-group-item ">Kategori 1</a>
+          <a href="kategori2.php" class="list-group-item">Kategori 2</a>
+          <a href="kategori3.php" class="list-group-item active">Kategori 3</a>
         </div>
       </div>
 
@@ -84,9 +84,9 @@
             <br>
             <label><b>Tanggal</b></label>
             <input type="date" name="tanggal" autofocus="" placeholder="Masukkan tanggal">
-            <br> 
+            <br>
             <button type="submit" name="pesan" value="pesan" autofocus="">Booking</button>
-            
+
           </div>
 
         </div>
@@ -94,7 +94,7 @@
       </div>
 
     </div>
-    
+
     <footer class="py-5 bg-dark">
       <div class="container">
         <p class="m-0 text-center text-white">Copyright &copy; Your Website 2017</p>

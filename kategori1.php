@@ -84,9 +84,9 @@
             <br>
             <label><b>Tanggal</b></label>
             <input type="date" name="tanggal" autofocus="" placeholder="Masukkan tanggal">
-            <br> 
+            <br>
             <button type="submit" name="pesan" value="pesan" autofocus="">Booking</button>
-            
+
           </div>
         </form>
       </div>
